@@ -1,3 +1,4 @@
+                                                                            # Tutorial - 01
 # SQL Basic Ex - 1
 
 This SQL exercise demonstrates the creation of tables, insertion of data, foreign key usage, and various SELECT queries using aggregate functions and joins in a sample `Company` database.
